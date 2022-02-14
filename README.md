@@ -1,8 +1,8 @@
 # CPSC_335-Project1-Alternating-Disk-Problem
 
-##Group members: Jeevika Yarlagadda, jeevikayarlagadda@csu.fullerton.edu
+## Group members: Jeevika Yarlagadda, jeevikayarlagadda@csu.fullerton.edu
 
-###Problem Statement
+### Problem Statement
 
 You have a row of 𝟐𝒏 disks of two colors, 𝒏 light and 𝒏 dark. They alternate: light, dark, light, 
 dark, and so on. You want to get all the dark disks to the left hand side and all the light disks to 
@@ -15,4 +15,4 @@ Output: a list of 2𝑛 disks, the first 𝑛 disks are dark, the next 𝑛 disk
 representing the number of swaps to move the light ones after the dark ones
 
 
-###Instructions on how to run the code:
+### Instructions on how to run the code:
