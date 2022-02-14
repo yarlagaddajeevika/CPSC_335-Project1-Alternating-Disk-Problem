@@ -17,7 +17,7 @@ representing the number of swaps to move the light ones after the dark ones
 
 ### Instructions on how to run the code:
 
-1, Download the main.cpp file
+1, Download the main.cpp file \n
 2, Open a command prompt from the path where the file is downloaded
 3, Check the compiler version, I am using g++ 11.2.0
 4, Type the commands:
